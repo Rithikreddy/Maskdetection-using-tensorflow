@@ -1,8 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Jun 26 17:14:59 2020
-
-@author: rithik
+@author: Rithikreddy
 """
 
 #import tensorflow as tf
